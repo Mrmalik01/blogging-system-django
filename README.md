@@ -2,7 +2,7 @@
 
 A blogging system build using Django as a backend, and it comes with all basic functionalities. 
 - Comment System for allowing users to comment on your posts.
-- Tagging posts for allowing each post to have tag associated.
+- Tagging posts for allowing each post to have tags associated.
 - Recommendation System for recommending posts to users.
 - Share Post via emails
 - Pagination 
